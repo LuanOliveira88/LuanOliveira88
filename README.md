@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LuanOliveira88
-- 👀 I’m interested in Data Analytics projects and Python Development.
+- 👋 Hi, I’m Luan Oliveira
+- 👀 I’m interested in Software Development projects.
 - 🌱 I’m currently learning: 
-  -Logic Programming in Python and his modules: Pandas, Matplotlib, Seaborn, Numpy, Sklearn; 
+  - Logic Programming in Python and his modules: Pandas, Matplotlib, Seaborn, Numpy, Sklearn; 
   -Machine Learning, Web Scraping and Web Crawling techniques applied in Python;
   -Fundamentals operations with relational databases using MySQL.
   - HTML5;
