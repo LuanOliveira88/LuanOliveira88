@@ -8,7 +8,7 @@
   - Git | GitHub.  
 - 💞️ I’m looking to collaborate on multidisciplinary tech teams that allows me to show my scientifical background.
 - 📫 How to reach me -> https://www.linkedin.com/in/luan-oliveira-375849141/
-![](https://geps.dev/progress/10)
+
 <!---
 LuanOliveira88/LuanOliveira88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
