@@ -1,13 +1,13 @@
 <ul>
   
   <li>
-    👋 Hi, I’m Luan Oliveira
+    👋 Olá! Eu me chamo Luan Oliveira! E atualmente estou me tornando um desenvolvedor
   </li>
   <li> 
-    I’m interested in Software Development projects, Music and Science
+    Tenho bastante interesse em desenvolvimento colaborativo de software, estruturas de dados e automação de processos.
   </li>
   <li>
-    🌱 My Focus | Skillset | Interests:
+    🌱 Algumas tecnologias ou conceitos que já tive contato através de estudos intensivos e/ou projetos pessoais:
   </li>
   <ul>
     <li>
@@ -43,7 +43,7 @@
     <li>OOP | SOLID | Design Patterns </li>
   </ul>
   <li>
-    📫 How to reach me:
+    📫 Como me encontrar:
   </li>
   <ul>
   <li>
