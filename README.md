@@ -1,13 +1,13 @@
 <ul>
   
   <li>
-    👋 Olá! Eu me chamo Luan Oliveira! E atualmente estou me tornando um desenvolvedor
+    👋Hello! My name is Luan Oliveira! And I'm currently becoming a developer.
   </li>
   <li> 
-    Tenho bastante interesse em desenvolvimento colaborativo de software, estruturas de dados e automação de processos.
+    I have a lot of interest in collaborative software development, data structures, and process automation.
   </li>
   <li>
-    🌱 Algumas tecnologias ou conceitos que já tive contato através de estudos intensivos e/ou projetos pessoais:
+    🌱 Some technologies or concepts I have come into contact with through intensive studies and/or personal projects:
   </li>
   <ul>
     <li>
@@ -43,7 +43,7 @@
     <li>OOP | SOLID | Design Patterns </li>
   </ul>
   <li>
-    📫 Como me encontrar:
+    📫 How to find me:
   </li>
   <ul>
   <li>
